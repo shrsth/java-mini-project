@@ -19,4 +19,4 @@ A Java project which is a music player that runs on the local machine.
 - 🎯 Ensures only registered users can access the music player.  
 - 🎨 Themed login page that matches the music player's design (black and red).  
 
-Enjoy your music! 🎵  
+Enjoy your music without any ad breaks 
